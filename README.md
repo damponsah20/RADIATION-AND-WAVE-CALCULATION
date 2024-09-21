@@ -1,1 +1,1 @@
-# RADIATION-AND-WAVE-CALCULATION
+Radiation and wavelenght calculation
